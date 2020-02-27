@@ -146,7 +146,7 @@
     "qs": "^6.9.1",
     "release-it": "^12.3.5",
     "sinon": "^9.0.0",
-    "snyk": "^1.210.0",
+    "snyk": "^1.297.1",
     "standard-version": "^7.0.0",
     "typescript": "^3.7.5"
   },
